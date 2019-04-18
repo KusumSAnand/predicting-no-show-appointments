@@ -1,5 +1,5 @@
 
-# No-show medical appointment prediction¶
+# No-show medical appointment prediction
 
 The project analyses the dataset from the Brazil  Healthcare system to understand factors that influence the 'no-show' for the scheduled medical appointments. Following aspects are explored -
 -  Effect on show/no_show for appointments based on the difference in days between appointment scheduled date and appointment date.
